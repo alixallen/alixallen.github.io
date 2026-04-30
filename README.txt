@@ -1,33 +1,23 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Hi, I’m Alix Allen
 
+I am a Data Scientist and Business Intelligence Analyst with a focus on driving strategic growth through quantitative analysis. I recently completed my M.S. in Data Science at Old Dominion University  and hold a B.S. in Mathematics and Statistics.
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+## Professional Focus
+I specialize in transforming raw data into actionable insights for executive decision-making. My experience includes:
+* Financial Analytics: Automating workflows and identifying cost-saving opportunities in the shipping industry.
+* Operational Optimization: Cleaning and analyzing public safety data to improve emergency response times.
+* Statistical Modeling: Leveraging a strong mathematical foundation to build robust predictive models.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## 🛠 Tech Stack
+* Programming: Python, SQL, and R.
+* Data Visualization: Tableau, Power BI, and Advanced Excel.
+* Methodologies: Agile, Statistical Inference, and Business Intelligence.
 
-(* = Not included)
+## 📈 Featured Projects
+* Financial Data Automation: A Python script designed to streamline and improve the accuracy of complex Excel documents.
+* Public Safety Analysis: A project showcasing data cleaning and optimization strategies for response time data.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## 📫 Connect with Me
+* LinkedIn: linkedin.com/in/alixallen6 
+* GitHub: github.com/alibubba6
+* Email: beachfc16@gmail.com
