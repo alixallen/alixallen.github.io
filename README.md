@@ -18,6 +18,6 @@ I specialize in transforming raw data into actionable insights for executive dec
 * Public Safety Analysis: A project showcasing data cleaning and optimization strategies for response time data.
 
 ## Connect with Me
-* LinkedIn: linkedin.com/in/alixallen6 
-* GitHub: github.com/alibubba6
-* Email: beachfc16@gmail.com
+* LinkedIn: [linkedin.com/in/alixallen6](https://linkedin.com/in/alixallen6) 
+* GitHub: [github.com/alibubba6](https://github.com/alibubba6)
+* Email: [beachfc16@gmail.com](mailto:beachfc16@gmail.com)
